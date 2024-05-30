@@ -1,0 +1,11 @@
+E:\Bahar Project C#\mine\mine\obj\Debug\mine.csproj.AssemblyReference.cache
+E:\Bahar Project C#\mine\mine\obj\Debug\mine.csproj.SuggestedBindingRedirects.cache
+E:\Bahar Project C#\mine\mine\obj\Debug\mine.Form1.resources
+E:\Bahar Project C#\mine\mine\obj\Debug\mine.Properties.Resources.resources
+E:\Bahar Project C#\mine\mine\obj\Debug\mine.csproj.GenerateResource.cache
+E:\Bahar Project C#\mine\mine\obj\Debug\mine.csproj.CoreCompileInputs.cache
+E:\Bahar Project C#\mine\mine\bin\Debug\mine.exe.config
+E:\Bahar Project C#\mine\mine\bin\Debug\mine.exe
+E:\Bahar Project C#\mine\mine\bin\Debug\mine.pdb
+E:\Bahar Project C#\mine\mine\obj\Debug\mine.exe
+E:\Bahar Project C#\mine\mine\obj\Debug\mine.pdb
